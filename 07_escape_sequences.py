@@ -12,3 +12,8 @@ print("Aquí va -->\t una tabulación.")
 
 # SLASH INVERTIDO
 print("Asi se representa un SLASH INVERITDO (\\).")
+
+"""  RAW STRING (r"")
+Sirve para que los SLASH INVERTIDOS se tomen como texto.
+"""
+print(r"C:\Ecritorio\Cursos")
